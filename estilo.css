@@ -1,0 +1,40 @@
+.texto-menor{
+    font-size: 10px;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.colorGreen{
+    color: #DAFF01;
+}
+
+.colorWhite{
+    color: white;
+}
+
+.colorButton{
+    color: white;
+    background-color: #9353FF;
+}
+
+.div-novidades{
+    width: 325px;
+}
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+}
